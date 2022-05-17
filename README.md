@@ -22,6 +22,8 @@ The best way to contact me is on [Discord](https://discord.gg/8wBUFeGGYc)
 - [archlinux-repo](https://github.com/El-Wumbus/archlinux-repo) - A package repository for Arch Linux
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)]([https://https://discord.com/](https://discord.gg/8wBUFeGGYc))[![followers](https://img.shields.io/github/followers/El-Wumbus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/El-wumbus?tab=followers) [![el-wumbus.github.io](https://img.shields.io/website-up-down-green-red/https/el-wumbus.github.io.svg)](https://el-wumbus.github.io/)
+
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Wumbus&theme=blue-green)
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=El-wumbus&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=El-wumbus&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
