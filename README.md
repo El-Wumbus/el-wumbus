@@ -17,9 +17,8 @@ The best way to contact me is on [Discord](https://discord.gg/8wBUFeGGYc)
 
 ### Current projects
 
-- [windows-10-scripts](https://github.com/El-Wumbus/windows-10-scripts) - Programs to make windows a little more useable
-- [el-wumbus.github.io](https://github.com/El-Wumbus/el-wumbus.github.io) - My website
-- [archlinux-repo](https://github.com/El-Wumbus/archlinux-repo) - A package repository for Arch Linux
+- [qe](https://github.com/El-Wumbus/qe)
+- [qa](https://github.com/El-Wumbus/qa)
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)]([https://https://discord.com/](https://discord.gg/8wBUFeGGYc))[![followers](https://img.shields.io/github/followers/El-Wumbus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/El-wumbus?tab=followers) [![el-wumbus.github.io](https://img.shields.io/website-up-down-green-red/https/el-wumbus.github.io.svg)](https://el-wumbus.github.io/)
 
