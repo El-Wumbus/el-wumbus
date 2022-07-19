@@ -17,7 +17,7 @@ The best way to contact me is on [Discord](https://discord.gg/8wBUFeGGYc)
 
 In additon to many projects of my own i have contributed to the folowing:
 
-* [dCaples/quickalias (i basically re-made the project 😢)](https://github.com/dCaples/quickalias)
+* [dCaples/quickalias](https://github.com/dCaples/quickalias)
 
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)]([https://https://discord.com/](https://discord.gg/8wBUFeGGYc))[![followers](https://img.shields.io/github/followers/El-Wumbus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/El-wumbus?tab=followers) [![el-wumbus.github.io](https://img.shields.io/website-up-down-green-red/https/el-wumbus.github.io.svg)](https://el-wumbus.github.io/)
