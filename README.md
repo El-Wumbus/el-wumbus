@@ -13,7 +13,5 @@ Here are some ideas
 - ⚡ Fun fact: ...
 -->
 
-The best way to contact me is on [Discord](https://discord.gg/m2v3MnrTKJ)
-
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Wumbus&theme=blue-green)  
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=El-wumbus&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
